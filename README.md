@@ -1,6 +1,39 @@
-frontend-nanodegree-arcade-game
+arcade game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+Table of Contents
+===============================
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [Description](#description)
+* [Installtion](#installtion)
+* [Object of the game](#Object-of-the-game)
+* [How to play](#how-to-play)
+* [Known bugs](#known-bugs)
+* [Requirement](#requirement)
+
+## Description
+
+This ia a simple object oriented javaScript game that contain three sections the first one where player start,the second where the enemy exist ,the third where the player should reach there
+
+## Object of the game
+
+you should cross the road and reach to other side to increase your score ! , but you must avoid to crash the enemy bugs because it decrease your life counter which the game will be over after your life counter below zero.
+
+## Installtion
+
+1. download the files
+2. ectract the files
+3. open index.html
+
+## How to play
+
+you should move the player with arrows of the keyboard to can prevent to crash with enemy bug and reach to the other side safely.
+
+## Known bugs
+
+the game when you open it may be slow if the bandwidth of the network is low
+and can affeect on the icons
+
+## Requirement
+
+should be internet connection to run the game well!
