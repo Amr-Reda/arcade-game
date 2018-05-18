@@ -6,7 +6,7 @@ Table of Contents
 
 * [Description](#description)
 * [Installtion](#installtion)
-* [Object of the game](#Object-of-the-game)
+* [Object of the game](#object-of-the-game)
 * [How to play](#how-to-play)
 * [Known bugs](#known-bugs)
 * [Requirement](#requirement)
