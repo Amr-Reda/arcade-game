@@ -13,7 +13,7 @@ Table of Contents
 
 ## Description
 
-This ia a simple object oriented javaScript game that contain three sections the first one where player start,the second where the enemy exist ,the third where the player should reach there
+This ia a simple object oriented javaScript game that contain three sections the first one where player start,the second where the enemy exist ,the third where the player should reach there [click here to see demo](https://amr-reda.github.io/arcade-game/)
 
 ## Object of the game
 
